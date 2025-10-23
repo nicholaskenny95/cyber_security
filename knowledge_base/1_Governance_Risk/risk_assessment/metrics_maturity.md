@@ -1,17 +1,10 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
+**KPIs**
+- % risks reviewed on schedule (target 100%)
+- Avg days to close high risks (≤ 60)
+- # critical risks open (≤ 3)
+- % projects with documented risk review (≥ 95%)
 
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+**Maturity**
+1 Ad hoc | 2 Register | 3 Quantified | 4 Automated | 5 Predictive
+Current: 2 → Next: integrate auto-ingest from scanners and incidents.

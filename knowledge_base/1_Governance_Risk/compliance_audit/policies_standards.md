@@ -1,10 +1,15 @@
-TOOLS
-VirtualBox
-pfSense
-Active Directory
+# Policies and Standards
+**Policy:**
+- Comply with defined frameworks and contractual obligations.
+- Maintain evidence repositories with retention rules.
+- All findings require an owner and remediation date.
 
-OS
-Linux
-Windows 10
-Windows Server 2019
+**Standards:**
+- Evidence must be dated, attributable, and reproducible.
+- Control mapping uses a master requirements matrix.
+- Pre-audit readiness review 30 days before fieldwork.
 
+**Compliance:**
+- SOC 2 Trust Services Criteria
+- ISO 27001 Annex A control mappings
+- Data protection laws as applicable

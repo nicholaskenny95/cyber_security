@@ -1,17 +1,10 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
+**KPIs**
+- Coverage: % assets with active heartbeat (≥ 98%)
+- Ownership completeness: % with assigned owner (100%)
+- Classification completeness: % with data class (≥ 98%)
+- Drift: new unmanaged assets detected per week (→ 0)
 
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+**Maturity**
+1 Lists | 2 CMDB | 3 Automated feeds | 4 Reconciliation | 5 Closed-loop with controls
+Current: 3 → Next: reconcile conflicts automatically; block unmanaged assets.

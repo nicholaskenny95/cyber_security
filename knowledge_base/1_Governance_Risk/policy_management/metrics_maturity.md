@@ -1,17 +1,9 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
+**KPIs**
+- % policies reviewed on time (100%)
+- # active exceptions and % overdue (0 overdue)
+- Avg time from draft to approval (≤ 30 days)
 
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+**Maturity**
+1 Ad hoc | 2 Centralized | 3 Versioned | 4 Mapped to controls | 5 Automated attestations
+Current: 3 → Next: automate review reminders and exception expirations.

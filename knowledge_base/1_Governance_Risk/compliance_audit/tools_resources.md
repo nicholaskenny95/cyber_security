@@ -1,13 +1,10 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
+**Tools:**
+- Control matrix (spreadsheet/DB)
+- Evidence repository (read-only for auditors)
+- Ticketing system for findings
 
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+**References:**
+- SOC 2 common evidence list
+- ISO 27001 audit program guide
+- Evidence naming and storage standard

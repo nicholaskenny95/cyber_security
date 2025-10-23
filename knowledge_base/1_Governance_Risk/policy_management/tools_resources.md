@@ -1,13 +1,10 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
+**Tools:**
+- GitHub repo for policy source of truth
+- Template library for policies/standards
+- Tracker (Jira/ServiceNow) for exceptions
 
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+**References:**
+- Master policy template
+- Standard template
+- Communication plan checklist

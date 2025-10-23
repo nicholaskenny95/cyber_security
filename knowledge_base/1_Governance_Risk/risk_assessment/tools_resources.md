@@ -1,13 +1,10 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
+**Tools:**
+- Risk register (sheet/DB) with fields: ID, title, scenario, scores, owner, status.
+- GRC or tracker (Jira/ServiceNow) for workflow.
+- Data sources: SIEM, vuln scanner, CMDB, incident tickets.
 
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+**References:**
+- NIST SP 800-30 Rev.1
+- ISO/IEC 27005
+- Sample risk scenarios library

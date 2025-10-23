@@ -1,11 +1,16 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+## Audit Readiness
+1. Confirm scope, period, and criteria.
+2. Update control matrix and owners.
+3. Collect fresh evidence; store in structured folders.
+4. Run internal walkthroughs.
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+## Fieldwork Support
+1. Coordinate requests (RFI list).
+2. Provide evidence with minimal PII.
+3. Track requests to closure.
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+## Findings Management
+1. Log finding with risk and root cause.
+2. Define action plan and due date.
+3. Validate remediation and capture evidence.
