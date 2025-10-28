@@ -1,11 +1,14 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Program Setup
+1. Identify target audiences and training frequency.  
+2. Develop content aligned to top risks.  
+3. Distribute via LMS or internal platform.  
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Phishing Campaign
+1. Create controlled simulation.  
+2. Record click/report rates.  
+3. Deliver targeted micro-training.  
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Reporting
+1. Aggregate metrics quarterly.  
+2. Report to leadership and adjust curriculum.

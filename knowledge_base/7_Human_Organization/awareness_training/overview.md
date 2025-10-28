@@ -1,17 +1,7 @@
 # Overview
-**Purpose:**  
-Describe this subdomain’s scope and strategic goal.
-
-**Framework Alignment:**  
-- NIST CSF:  
-- ISO 27001 Annex A:  
-- CIS Controls:  
-- Other:  
-
-**Objectives:**  
--  
--  
--  
-
-**Dependencies:**  
-- Linked domains or processes.
+Purpose: Build and maintain a security-aware workforce.  
+Scope: All employees, contractors, and partners.  
+Frameworks: NIST PR.AT; ISO 27001 A.6.3; CIS 14.  
+Objectives: Train users to identify and prevent security incidents.  
+Roles: HR, Security Awareness Manager, Department Leads.  
+Dependencies: Policy Management, Incident Response.

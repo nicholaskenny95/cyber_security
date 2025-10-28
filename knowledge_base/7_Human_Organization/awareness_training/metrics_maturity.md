@@ -1,17 +1,8 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
-
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+KPIs:
+- Completion rate (≥ 95%)  
+- Phish report rate (≥ 70%)  
+- Phish click rate (≤ 5%)  
+Maturity:
+1 Ad hoc | 2 Scheduled | 3 Role-based | 4 Adaptive | 5 Data-driven behavior change  
+Current: 3 → Next: adaptive micro-training by risk group.

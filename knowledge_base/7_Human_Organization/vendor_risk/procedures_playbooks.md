@@ -1,11 +1,12 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Onboarding
+1. Vendor completes questionnaire (SIG/CAIQ).  
+2. Review documents (SOC 2, ISO 27001).  
+3. Determine risk rating; approve/decline.  
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Monitoring
+1. Track control attestations and security incidents.  
+2. Trigger re-review on major change or breach.  
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Offboarding
+1. Revoke access, delete data, confirm data return/destruction.

@@ -1,11 +1,13 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Detection
+1. Correlate anomalous logins, data transfers, or off-hours actions.  
+2. Cross-check with HR events (disciplinary, departure).  
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Investigation
+1. Collect evidence in restricted workspace.  
+2. Review with HR/Legal; limit disclosure.  
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Response
+1. Contain by disabling accounts if risk confirmed.  
+2. Notify management; document findings.  
+3. Update preventive training if required.
