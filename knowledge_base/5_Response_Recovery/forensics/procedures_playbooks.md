@@ -1,11 +1,14 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Acquisition
+1. Identify device and owner approval.  
+2. Capture volatile data (memory, network).  
+3. Image storage with write-blocker; verify hash.  
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Analysis
+1. Load image in isolated lab.  
+2. Use triage tools; document findings.  
+3. Correlate with logs; timeline reconstruction.  
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Reporting
+1. Summarize scope, evidence, findings, conclusion.  
+2. Review by peer; submit to IR lead and Legal.

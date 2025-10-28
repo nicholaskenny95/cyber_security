@@ -1,17 +1,8 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
-
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+KPIs:
+- Mean time to contain (≤ 4h)
+- Mean time to recover (≤ 24h)
+- Post-incident report completion (100%)
+Maturity:
+1 Ad hoc | 2 Documented | 3 Repeatable | 4 Automated evidence & comms | 5 Continuous readiness testing  
+Current: 3 → Next: integrate SOAR playbooks and auto-notifications.

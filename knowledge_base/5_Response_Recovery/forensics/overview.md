@@ -1,17 +1,7 @@
 # Overview
-**Purpose:**  
-Describe this subdomain’s scope and strategic goal.
-
-**Framework Alignment:**  
-- NIST CSF:  
-- ISO 27001 Annex A:  
-- CIS Controls:  
-- Other:  
-
-**Objectives:**  
--  
--  
--  
-
-**Dependencies:**  
-- Linked domains or processes.
+Purpose: Preserve, analyze, and report on digital evidence.  
+Scope: Endpoints, servers, cloud, network, mobile.  
+Frameworks: NIST SP 800-86, ISO 27037/27041.  
+Objectives: Maintain chain of custody, accurate analysis, admissible evidence.  
+Roles: Forensic analysts, IR lead, Legal.  
+Dependencies: IR, SOC, Logging.

@@ -1,11 +1,15 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+IR Lifecycle
+1. Detect → confirm via SOC alert.  
+2. Contain → isolate affected assets.  
+3. Eradicate → remove root cause.  
+4. Recover → restore service.  
+5. Lessons → update controls, brief management.  
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Communication
+- Internal: IR lead → CISO → executives.  
+- External: Legal/PR approves any disclosure.  
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Evidence Handling
+- Preserve volatile data before remediation.  
+- Store evidence in read-only repository.

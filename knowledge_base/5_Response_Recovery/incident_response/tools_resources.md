@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: IR platform, ticketing, comms bridge, forensic tools, evidence vault, IOC feeds.  
+Resources: IR plan, escalation matrix, contact sheet, communication templates.

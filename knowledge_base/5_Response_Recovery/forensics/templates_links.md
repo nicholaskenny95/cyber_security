@@ -1,12 +1,5 @@
 # Templates and Linked Artifacts
-**Purpose:**  
-Reference reusable forms and matrices for this subdomain.
-
-## Templates
-- [Template name](../../resources/templates/template_name.md)
-
-## Matrices
-- [Control matrix or risk register reference](../../resources/frameworks/)
-
-## Example Documents
-- Sample policy, checklist, or evidence form.
+- Chain-of-custody form  
+- Evidence log template  
+- Analysis report template  
+- Peer review checklist

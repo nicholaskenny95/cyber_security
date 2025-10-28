@@ -1,17 +1,8 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
-
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+KPIs:
+- % services with tested DR plan (≥ 95%)
+- Avg recovery time vs RTO (≤ 100%)
+- Plan update cycle (≤ 12 months)
+Maturity:
+1 Unplanned | 2 Plans exist | 3 Tested | 4 Automated failover | 5 Continuous resilience validation  
+Current: 3 → Next: automate recovery validation.

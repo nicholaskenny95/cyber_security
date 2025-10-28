@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: Imaging (FTK Imager, dd), analysis (Autopsy, Velociraptor), hash (sha256sum), timeline (plaso).  
+Resources: Chain-of-custody form, evidence log, forensic lab SOP.
