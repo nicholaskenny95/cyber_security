@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: Config mgmt (Ansible/PS DSC), IaC (Terraform), CIS-CAT/Scout/SSM, Cloud policies.
+Resources: Baseline catalogs, OS hardening guides, Change record template.

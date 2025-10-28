@@ -1,17 +1,8 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
-
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+KPIs:
+- Time to deprovision (target ≤ 4h)
+- % privileged with MFA (100%)
+- Orphaned accounts (0)
+Maturity:
+1 Manual | 2 Centralized | 3 RBAC | 4 Automated JML | 5 Attribute-driven ABAC
+Current: 3 → Next: automate provisioning via HR/SCIM.

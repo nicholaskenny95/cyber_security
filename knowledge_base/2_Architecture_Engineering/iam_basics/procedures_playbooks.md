@@ -1,11 +1,14 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Provisioning
+1. HR event received → create identity.
+2. Assign baseline + role-based access.
+3. Notify owner; log in ticket.
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Deprovisioning
+1. HR exit → disable account ≤ 4 hours.
+2. Remove tokens, keys, VPN; transfer ownership.
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Access Review (Quarterly)
+1. Export entitlements.
+2. Owner attests; remove unused/violations.
+Incident: Disable suspect accounts; rotate creds; review logs.

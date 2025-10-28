@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: KMS/HSM, PKI/ACME, Secret managers, Scanners for weak TLS.
+Resources: Cipher suite guide, Key rotation checklist, Certificate inventory sheet.

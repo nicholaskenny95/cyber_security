@@ -1,11 +1,14 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Key Lifecycle
+1. Generate in HSM/KMS.
+2. Store in KMS; restrict by role.
+3. Rotate on schedule or incident.
+4. Revoke and destroy per policy.
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Certificate Management
+1. Request via PKI/ACME.
+2. Validate domain/ownership.
+3. Deploy; monitor expiry.
+4. Renew/revoke as needed.
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Incident: Key/cert compromise → rotate, revoke, inventory sweep, root-cause.

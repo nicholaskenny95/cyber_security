@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: IdP/SSO (e.g., Entra/Okta), PAM, Directory, MDM, Key vaults.
+Resources: Access review checklist, RBAC model examples, MFA enrollment guide.

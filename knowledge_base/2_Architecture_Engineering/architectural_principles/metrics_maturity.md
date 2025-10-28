@@ -1,17 +1,8 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
-
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+KPIs:
+- % new systems with approved review (100%)
+- Avg review turnaround (≤ 10 business days)
+- # accepted deviations with expiry (→ 0 overdue)
+Maturity:
+1 Ad hoc | 2 Patterns defined | 3 Reviews standard | 4 Automated checks | 5 Policy-as-code
+Current: 2 → Next: codify patterns in IaC guardrails.

@@ -1,17 +1,8 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
-
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+KPIs:
+- Baseline compliance % (≥ 95%)
+- Mean time to remediate drift (≤ 7 days)
+- Exceptions overdue (0)
+Maturity:
+1 Manual | 2 Scripts | 3 CM tool | 4 IaC + policy | 5 Full drift auto-remediation
+Current: 3 → Next: enforce via IaC and policy guardrails.

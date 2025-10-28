@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: Diagramming (draw.io/Visio), threat modeling (OWASP Threat Dragon), repo for patterns.
+Resources: Reference network patterns, secure landing zone docs, data-flow template, threat model checklist.
