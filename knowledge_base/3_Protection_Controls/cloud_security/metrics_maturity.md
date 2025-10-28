@@ -1,17 +1,8 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
-
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+KPIs:
+- % accounts with guardrails and logging (100%)
+- Public exposures resolved within SLA (≤ 24h)
+- Over-privileged identities reduced MoM
+Maturity:
+1 Ad hoc | 2 Baselines | 3 Guardrails | 4 Automated remediation | 5 Policy-as-code across org
+Current: 3 → Next: auto-remediate common misconfigs.

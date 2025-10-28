@@ -1,17 +1,8 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
-
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+KPIs:
+- % rules tied to ticket/owner (100%)
+- Stale rules > 180 days (0)
+- Segmentation test pass rate (≥ 95%)
+Maturity:
+1 Flat | 2 Basic ACLs | 3 Segmented | 4 Microseg + ZTNA | 5 Policy-as-code
+Current: 3 → Next: codify in IaC/policy-as-code with reviews.

@@ -1,17 +1,8 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
-
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+KPIs:
+- % repos with SAST/SCA enabled (100%)
+- Mean time to fix high vulns (≤ 14d)
+- % builds with SBOM + signature (100%)
+Maturity:
+1 Ad hoc | 2 Checklists | 3 CI scans | 4 Blocking gates | 5 Policy-as-code with attestations
+Current: 3 → Next: enforce blocking gates and attestations.

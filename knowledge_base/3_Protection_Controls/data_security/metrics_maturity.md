@@ -1,17 +1,8 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
-
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+KPIs:
+- % sensitive stores encrypted (100%)
+- Successful restore test rate (≥ 95%)
+- Excess privilege findings resolved within SLA (≥ 95%)
+Maturity:
+1 Unclassified | 2 Basic encryption | 3 Classified + controls | 4 Automated discovery | 5 Continuous policy enforcement
+Current: 3 → Next: automated discovery + policy enforcement.

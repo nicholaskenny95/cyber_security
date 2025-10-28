@@ -1,11 +1,13 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Access Provisioning
+1. Request with manager approval.
+2. Assign zone; record in system.
+3. Review quarterly.
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Incident (lost badge)
+1. Disable immediately.
+2. Issue replacement; review logs.
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Visitor Handling
+1. Register; verify ID; assign badge.
+2. Escort; collect badge on exit; log visit.

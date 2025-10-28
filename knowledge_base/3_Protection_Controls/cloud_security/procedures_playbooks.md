@@ -1,11 +1,15 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Account Onboarding
+1. Provision through landing zone.
+2. Attach guardrails; enable logging.
+3. Register owners; tag resources.
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Exposure Response
+1. CSPM alert → verify resource and policy.
+2. Auto-remediate if safe; else ticket and isolate.
+3. Post-change validation; update exceptions.
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Key Rotation
+1. Identify KMS keys nearing expiry.
+2. Rotate; update consumers.
+3. Validate encryption and access.

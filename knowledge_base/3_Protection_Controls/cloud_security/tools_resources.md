@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: CSPM, CIEM, CWPP/agent, IaC scanners, cloud org policies.
+Resources: Landing zone docs, tagging standard, org logging guide, exception process.

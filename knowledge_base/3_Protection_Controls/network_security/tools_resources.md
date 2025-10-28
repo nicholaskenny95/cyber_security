@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: NGFW, IDS/IPS (Suricata), DNS filter, ZTNA/VPN, cloud SG/NACL, NAC.
+Resources: Reference rulebase, data-flow template, segmentation patterns, egress allowlist.

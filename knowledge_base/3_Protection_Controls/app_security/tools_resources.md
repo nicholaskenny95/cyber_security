@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: SAST, SCA, DAST, IAST, secret scanners, SBOM tools, code signing.
+Resources: Secure code checklists, API security cheatsheets, threat model worksheet.

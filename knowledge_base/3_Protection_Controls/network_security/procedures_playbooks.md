@@ -1,11 +1,14 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Change Flow
+1. Submit network change with data-flow and risk.
+2. Review against reference rules; approve/reject.
+3. Implement; validate with traffic test; update docs.
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Blocklist Response
+1. IOC received → add to DNS/URL/IP controls.
+2. Verify block; monitor hits; expire per policy.
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+VPN Access
+1. Request with justification.
+2. Enroll MFA/device check.
+3. Assign least-privilege group; review quarterly.

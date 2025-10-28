@@ -1,17 +1,7 @@
 # Overview
-**Purpose:**  
-Describe this subdomain’s scope and strategic goal.
-
-**Framework Alignment:**  
-- NIST CSF:  
-- ISO 27001 Annex A:  
-- CIS Controls:  
-- Other:  
-
-**Objectives:**  
--  
--  
--  
-
-**Dependencies:**  
-- Linked domains or processes.
+Purpose: Protect data at rest, in use, and in transit.
+Scope: Databases, files, object stores, backups, analytics.
+Frameworks: NIST PR.DS; ISO A.8.10/A.8.24–28; CIS 3, 11.
+Objectives: Classification, encryption, access controls, backup integrity.
+Roles: Data owners, DBAs, Security.
+Dependencies: IAM, Crypto, Backup/DR, AppSec.

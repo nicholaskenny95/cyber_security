@@ -1,11 +1,15 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+New Dataset Onboarding
+1. Identify owner and steward.
+2. Classify data; record lawful basis if applicable.
+3. Set access model; enable encryption and logging.
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Sensitive Data Discovery
+1. Run scanners on repos/stores.
+2. Triage findings; remediate exposures.
+3. Update classification and controls.
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Backup Restore Test
+1. Select sample set.
+2. Restore to isolated env; verify integrity.
+3. Record results and defects.
