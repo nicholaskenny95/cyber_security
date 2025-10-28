@@ -1,11 +1,13 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Planning
+1. Define scope, objectives, criteria, schedule.  
+2. Notify auditees.  
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Fieldwork
+1. Collect evidence and perform tests.  
+2. Record observations and nonconformities.  
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Reporting
+1. Draft and issue report.  
+2. Obtain management responses.  
+3. Verify and close actions.

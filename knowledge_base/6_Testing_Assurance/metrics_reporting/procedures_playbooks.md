@@ -1,11 +1,12 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Collection
+1. Pull data from scanners, GRC, SIEM, audit logs.  
+2. Validate accuracy and completeness.  
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Analysis
+1. Aggregate results; identify trends.  
+2. Calculate SLA compliance and risk exposure.  
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Reporting
+1. Build dashboard and management summary.  
+2. Publish monthly; discuss in governance meeting.

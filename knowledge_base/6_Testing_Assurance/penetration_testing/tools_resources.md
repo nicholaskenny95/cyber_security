@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: Nmap, Metasploit, Burp Suite, Cobalt Strike (authorized only), custom scripts.  
+Resources: RoE template, test plan, report format, credential tracker.

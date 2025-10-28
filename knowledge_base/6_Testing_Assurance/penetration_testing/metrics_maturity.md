@@ -1,17 +1,8 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
-
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+KPIs:
+- Annual test completion (100%)  
+- Critical findings remediated ≤ 30 days  
+- Retest verification 100%  
+Maturity:
+1 Reactive | 2 Scheduled | 3 Comprehensive | 4 Continuous red teaming | 5 Automated breach simulation  
+Current: 3 → Next: adopt purple-team exercises.
