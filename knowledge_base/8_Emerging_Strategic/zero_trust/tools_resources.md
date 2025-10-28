@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: IdP, ZTNA, microsegmentation platform, device posture tools, SIEM.  
+Resources: Zero trust roadmap, policy design template, maturity assessment form.

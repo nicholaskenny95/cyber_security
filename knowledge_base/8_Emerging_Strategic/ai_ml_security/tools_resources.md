@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: Model registry (MLflow), data versioning (DVC), MLOps pipelines, AI red-team toolkit.  
+Resources: AI threat modeling checklist, dataset consent form, LLM security testing guide.

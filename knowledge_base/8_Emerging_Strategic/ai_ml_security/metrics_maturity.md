@@ -1,17 +1,8 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
-
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+KPIs:
+- % models reviewed for bias and security (100%)  
+- % of AI endpoints with auth + rate limiting (100%)  
+- Model drift incidents detected (≤ 1 per quarter)  
+Maturity:
+1 Unmanaged | 2 Manual checks | 3 Secure MLOps | 4 Continuous validation | 5 Autonomous defense and auditing  
+Current: 2 → Next: integrate automated testing pipelines.

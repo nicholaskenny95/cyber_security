@@ -1,11 +1,15 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Privacy Impact Assessment
+1. Identify personal data categories.  
+2. Assess necessity, proportionality, and risks.  
+3. Define controls; obtain approval.  
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Data Subject Request
+1. Verify identity.  
+2. Retrieve and deliver or delete data per request.  
+3. Log and close case.  
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Breach Handling
+1. Assess scope and severity.  
+2. Notify regulators within 72h if required.  
+3. Notify affected individuals when risk high.

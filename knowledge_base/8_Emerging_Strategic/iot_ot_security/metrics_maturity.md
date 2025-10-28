@@ -1,17 +1,8 @@
 # Metrics and Maturity
-**Purpose:**  
-Track performance and capability growth.
-
-## KPIs
-| Metric | Target | Source |
-|---------|---------|--------|
-|         |         |        |
-
-## Maturity Level
-| Level | Description |
-|--------|-------------|
-| 1 | Initial |
-| 2 | Managed |
-| 3 | Defined |
-| 4 | Quantitatively Managed |
-| 5 | Optimizing |
+KPIs:
+- Asset inventory completeness (≥ 98%)  
+- Devices with default creds (0)  
+- Patch compliance rate (≥ 90%)  
+Maturity:
+1 Untracked | 2 Basic inventory | 3 Segmented + monitored | 4 Centralized mgmt | 5 Full lifecycle security integration  
+Current: 3 → Next: integrate OT IDS with SIEM.

@@ -1,11 +1,13 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Asset Onboarding
+1. Register device; record model, firmware, owner.  
+2. Verify baseline config; disable unnecessary services.  
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Patch Cycle
+1. Review vendor advisories.  
+2. Test updates in staging; deploy under maintenance window.  
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Incident Response
+1. Isolate affected segment.  
+2. Capture network traffic and logs.  
+3. Restore from known-good image.
