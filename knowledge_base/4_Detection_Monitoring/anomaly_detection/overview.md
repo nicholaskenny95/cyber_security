@@ -1,17 +1,7 @@
 # Overview
-**Purpose:**  
-Describe this subdomain’s scope and strategic goal.
-
-**Framework Alignment:**  
-- NIST CSF:  
-- ISO 27001 Annex A:  
-- CIS Controls:  
-- Other:  
-
-**Objectives:**  
--  
--  
--  
-
-**Dependencies:**  
-- Linked domains or processes.
+Purpose: Detect abnormal behavior using baselines and analytics.  
+Scope: Users, endpoints, network, cloud, apps.  
+Frameworks: NIST DE.AE, DE.CM; ISO A.8.15.  
+Objectives: Identify unknown threats and insider risk.  
+Roles: SOC, SecEng, Data analytics.  
+Dependencies: SIEM, IAM, Data lake.

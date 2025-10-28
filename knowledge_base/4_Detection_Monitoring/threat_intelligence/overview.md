@@ -1,17 +1,7 @@
 # Overview
-**Purpose:**  
-Describe this subdomain’s scope and strategic goal.
-
-**Framework Alignment:**  
-- NIST CSF:  
-- ISO 27001 Annex A:  
-- CIS Controls:  
-- Other:  
-
-**Objectives:**  
--  
--  
--  
-
-**Dependencies:**  
-- Linked domains or processes.
+Purpose: Gather and apply intelligence to anticipate threats.  
+Scope: External feeds, internal detections, sharing communities.  
+Frameworks: NIST DE.CM-6, ID.RA; ISO A.5.7; CIS 17.  
+Objectives: Enrich alerts, inform defenses, detect targeted activity.  
+Roles: Threat intel analysts, SOC, IR.  
+Dependencies: SIEM, SOC, Incident response.

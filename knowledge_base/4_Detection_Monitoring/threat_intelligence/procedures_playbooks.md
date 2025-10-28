@@ -1,11 +1,14 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Intel Collection
+1. Gather from open, commercial, ISAC sources.
+2. Normalize and validate indicators.
+3. Prioritize per relevance and credibility.
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+IOC Deployment
+1. Export to detection systems (SIEM/IDS/EDR).
+2. Monitor hits and false positives.
+3. Retire stale indicators.
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Reporting
+1. Weekly summary to SOC and leadership.
+2. Ad hoc alerts for critical threats.

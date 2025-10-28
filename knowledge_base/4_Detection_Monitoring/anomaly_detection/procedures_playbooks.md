@@ -1,11 +1,14 @@
 # Procedures and Playbooks
-**Purpose:**  
-Document repeatable operational workflows.
+Baseline Modeling
+1. Collect representative data.
+2. Train and validate thresholds.
+3. Review with analysts.
 
-## Procedures
-1. Step-by-step tasks  
-2. Escalation logic  
+Alert Review
+1. Evaluate anomaly context.
+2. Correlate with logs and intel.
+3. Label true/false positive; tune model.
 
-## Playbooks
-- [Incident type] – response path  
-- [Routine task] – checklist  
+Model Maintenance
+1. Retrain monthly or on major change.
+2. Archive versions and metrics.

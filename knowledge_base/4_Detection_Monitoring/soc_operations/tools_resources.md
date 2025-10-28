@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: SIEM console, SOAR, case mgmt, sandbox, threat intel feeds, comms (chat/ticket).  
+Resources: Alert triage checklist, escalation matrix, shift log template.

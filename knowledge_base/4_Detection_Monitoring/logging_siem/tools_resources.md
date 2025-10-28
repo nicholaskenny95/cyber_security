@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: SIEM (e.g., Wazuh/ELK/Splunk), log forwarders, collectors, time sync servers.
+Resources: Log schema guide, onboarding checklist, normalization library.

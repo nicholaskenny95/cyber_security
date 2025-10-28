@@ -1,13 +1,3 @@
 # Tools and Resources
-**Purpose:**  
-List supporting technology, scripts, and guides.
-
-## Tools
-| Tool | Function | Notes |
-|------|-----------|-------|
-|      |           |       |
-
-## Resources
-- Internal docs  
-- External references  
-- Whitepapers or guides  
+Tools: MISP, OpenCTI, TAXII client, enrichment tools, URL/IP sandboxes.  
+Resources: Intel source matrix, feed reliability scoring sheet, report templates.
